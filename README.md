@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @BarBarucco
+- 👀 I’m interested in mathematics and physics
+- 🌱 I’m currently learning html and javascript
+- 💞️ I'm looking for advice to create a database from which pulling specific information for a ski website
+- 📫 How to reach me ale.barucco@icloud.com
